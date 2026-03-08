@@ -79,10 +79,10 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prajjwal-Verma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjwal-Verma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff"/>
+<img height="180em" src="https://gh-stats-gen.vercel.app/api?username=Prajjwal-Verma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff"/>
+<img height="180em" src="https://gh-stats-gen.vercel.app/api/top-langs/?username=Prajjwal-Verma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajjwal-Verma&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+<img src="https://streak-stats.demolab.com/?user=Prajjwal-Verma&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 
 </div>
 
@@ -92,7 +92,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prajjwal-Verma&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=5&bg_color=0D1117" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Prajjwal-Verma&theme=discord&no-frame=true&row=1&column=7&margin-w=4" alt="trophies"/>
 
 </div>
 
