@@ -89,6 +89,36 @@ me.say_hi()
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajjwal-Verma&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff" />
+
+</div>
+
+---
+
+## 🌐 3D Contribution Graph
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" />
+
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Redressed" />
+
+</div>
+
+---
+
 ## 🎯 What I'm Working On
 
 - 🔭 **LumosOne** — AI-powered productivity tool
