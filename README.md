@@ -113,7 +113,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Redressed" />
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&font=Redressed" width="100%" />
 
 </div>
 
