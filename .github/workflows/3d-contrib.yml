@@ -14,15 +14,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: Prajjwal-Verma
-          SETTING_JSON: |
-            {
-              "githubUserName": "Prajjwal-Verma",
-              "type": "GitHubSvg",
-              "backgroundColor": "#0D1117",
-              "strongColor": "#00d9ff",
-              "weakColor": "#1a3a4a",
-              "cornerRadius": 10
-            }
       - run: git config user.email "actions@github.com" && git config user.name "GitHub Actions"
       - run: git add -A && git diff-index --quiet HEAD || git commit -m "update 3d contrib graph"
       - run: git push
