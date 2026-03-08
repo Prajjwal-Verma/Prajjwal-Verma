@@ -75,24 +75,15 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://gh-stats-gen.vercel.app/api?username=Prajjwal-Verma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff"/>
-<img height="180em" src="https://gh-stats-gen.vercel.app/api/top-langs/?username=Prajjwal-Verma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff"/>
+![Contributions](https://img.shields.io/badge/Contributions-148%2B-00d9ff?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-13-00d9ff?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/On%20GitHub%20Since-2021-00d9ff?style=for-the-badge&logo=github&logoColor=white)
 
 <img src="https://streak-stats.demolab.com/?user=Prajjwal-Verma&theme=tokyonight&hide_border=true&background=0D1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prajjwal-Verma&theme=discord&no-frame=true&row=1&column=7&margin-w=4" alt="trophies"/>
 
 </div>
 
