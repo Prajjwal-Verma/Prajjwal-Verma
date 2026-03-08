@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%2C%20I'm%20Prajjwal!%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20Cybersecurity%20Learner%20%7C%20Freelancer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there%2C%20I'm%20Prajjwal!%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Freelancer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+secure+full-stack+applications+%F0%9F%94%92;Automating+workflows+%26+saving+time+%E2%9A%99%EF%B8%8F;Always+learning+something+new+%F0%9F%93%9A;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+scalable+web+applications;Automating+workflows+%26+saving+time+%E2%9A%99%EF%B8%8F;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Prajjwal-Verma&color=00d9ff&style=flat-square&label=Profile+Views)
 
@@ -26,11 +26,10 @@ class PrajjwalVerma:
             "frontend"  : ["React", "TailwindCSS", "HTML5", "CSS3"],
             "backend"   : ["Node.js", "Express", "PostgreSQL", "Supabase"],
             "devops"    : ["Docker", "AWS", "n8n", "GitHub Actions"],
-            "security"  : ["OWASP", "Pentesting basics", "Secure APIs"],
         }
         self.currently  = "Building LumosOne & FalconHex 🚀"
-        self.learning   = ["Cybersecurity", "AI Automation", "Cloud"]
-        self.fun_fact   = "I once automated my entire email campaign with 336k combinations 🤖"
+        self.learning   = ["AI Automation", "Cloud Architecture", "System Design"]
+        self.fun_fact   = "I built an email system handling 336k+ combinations — fully automated 🤖"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something cool together.")
